@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced MERN Stack**
 - 💻 Passionate about Web Development
 - 🎯 Goal: Become a Full Stack Developer
-  
+- 🌍 Dream: Work as a Full Stack Developer Abroad
 
 ---
 
@@ -21,17 +21,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/puneet-dwivedi-0969a82b4/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/puneet-dwivedi-0969a82b4/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/puneet_dwivedi_00/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
 
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
+  <!-- Facebook -->
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="50"/>
   </a>
+
 </p>
 
 ---
