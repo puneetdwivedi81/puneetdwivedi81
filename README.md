@@ -26,7 +26,7 @@
 - Create and manage notes with public & private sections
 - Authentication system implemented
 - **Tech:** React, Node.js, Express, MongoDB
-- 🔗 Live Demo: https://notebook-vith.onrender.com
+- 🔗 Live Demo: (https://note-book-kappa.vercel.app/)
 - 💻 GitHub: https://github.com/puneetdwivedi81
 
 ---
