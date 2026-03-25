@@ -18,6 +18,39 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+### 📝 MyNotebook (MERN Stack Notes App)
+- Create and manage notes with public & private sections
+- Authentication system implemented
+- **Tech:** React, Node.js, Express, MongoDB
+- 🔗 Live Demo: https://notebook-vith.onrender.com
+- 💻 GitHub: https://github.com/puneetdwivedi81
+
+---
+
+### 📰 News App (React.js)
+- International news with multiple categories
+- Login system included
+- Responsive UI
+- **Tech:** React.js, API Integration
+- 🔗 Live Demo: https://news-app-fawn-phi.vercel.app/
+- 💻 GitHub: https://github.com/puneetdwivedi81
+
+---
+
+### 🌐 Portfolio Website
+- Personal developer portfolio
+- Projects showcase & contact section
+- **Tech:** React.js, CSS
+- 🔗 Live Demo: https://puneet-portfolio-react.vercel.app/
+- 💻 GitHub: https://github.com/puneetdwivedi81
+
+
+
+
 ## 🌐 Connect With Me
 
 <p align="center">
