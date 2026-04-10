@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Advanced MERN Stack**
 - 💻 Passionate about Web Development
 - 🎯 Goal: Become a Full Stack Developer
-- 🌍 Dream: Work as a Full Stack Developer Abroad
+- 🌍 Dream: Work as a Full Stack Developer 
 
 ---
 
